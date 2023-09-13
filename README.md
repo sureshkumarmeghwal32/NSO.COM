@@ -1,36 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website</title>
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            background-image: url('your-background-image.jpg'); /*C:\Users\lenovo\Downloads\3A6LBDchYS4nvLmZmdhC--1--6qi9m.jpg*/
-            background-size: cover;
-            background-position: center;
-            background-attachment: fixed; /* Keeps the background fixed while scrolling */
-            font-family: Arial, sans-serif;
-        }
-
-        /* Add your website's content styling below this */
-        .content {
-            text-align: center;
-            padding: 100px;
-            color: white;
-        }
-    </style>
-</head>
-<body>
-    <div class="content">
-        <h1>Welcome to Your Website</h1>
-        <p>Your website content goes here.</p>
-    </div>
-</body>
-</html>
-
 # NSO [nursing solution organization]
 <html lang="en">
 <head>
