@@ -1,3 +1,6 @@
+body {
+    background-color: #ffffff;
+}
 # NSO.COM
 <html lang="en">
 <head>
