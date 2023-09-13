@@ -1,35 +1,6 @@
 # NSO [nursing solution organization]
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login Page</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="login-container">
-        <h2>Login</h2>
-        <form id="login-form" action="login.php" method="POST">
-            <label for="username">Username:</label>
-            <input type="text" id="username" name="username" required>
-
-            <label for="password">Password:</label>
-            <input type="password" id="password" name="password" required>
-
-            <button type="submit">Login</button>
-        </form>
-    </div>
-</body>
-</html>
 
 BSC NURSING FREE NOTES AND CLASSES
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-<p> <strong><span style="font-size: 14pt;"><a href="https://youtu.be/yvpppdZj_zQ"></a></span></strong></p>
-<p></p>
 <p><code>      <span style="background-color: #00ff00;">  <span style="font-size: 36pt; background-color: #00ff00;"><strong> FUNDAMENTALS OF NURSING </strong></span></span></code></p>
 <p><code><span style="color: #000000;"><strong><a href="https://youtu.be/CMY2a1iOBF0" style="color: #000000;"><span style="font-size: 14pt;">Class 1</span></a></strong></span></code></p>
 <p><code><span style="color: #000000;"><strong><span style="font-size: 14pt;"><a href="https://youtu.be/q0an5VFPJkw" style="color: #000000;">Class 2</a></span></strong></span></code></p>
