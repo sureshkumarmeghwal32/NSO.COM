@@ -8,7 +8,7 @@
         body {
             margin: 0;
             padding: 0;
-            background-image: url('your-background-image.jpg'); /* C:\Users\lenovo\Downloads\3A6LBDchYS4nvLmZmdhC--1--6qi9m.jpg */
+            background-image: url('your-background-image.jpg'); /*C:\Users\lenovo\Downloads\3A6LBDchYS4nvLmZmdhC--1--6qi9m.jpg*/
             background-size: cover;
             background-position: center;
             background-attachment: fixed; /* Keeps the background fixed while scrolling */
