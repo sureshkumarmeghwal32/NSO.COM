@@ -1,3 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: black;
+            color: white; /* Text color on the black background */
+            font-family: Arial, sans-serif;
+        }
+
+        /* Add your website's content styling below this */
+        .content {
+            text-align: center;
+            padding: 100px;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Welcome to Your Website</h1>
+        <p>Your website content goes here.</p>
+    </div>
+</body>
+</html>
 # NSO [nursing solution organization]
 
 BSC NURSING FREE NOTES AND CLASSES
