@@ -1,13 +1,13 @@
+
 <!DOCTYPE html>
 <html>
 <head>
     <NCLEX BOOK>Embed PDF</NCLEX BOOK>
 </head>
 <body>
-    <h1>Embedding PDF in a Website</h1>
+    <h1>NSO</h1>
     
-    <!-- Using <embed> -->
-    <embed src="C:\Users\lenovo\Downloads4_6026242469551671061" width="800px" height="600px" type="application/pdf">
+    
 # NSO [nursing solution organization]
 
 BSC NURSING FREE NOTES AND CLASSES
